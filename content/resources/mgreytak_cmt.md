@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: mgreytak_cmt.xls
 uid: 2055d0ba-be08-ee94-281c-9b117451e362
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

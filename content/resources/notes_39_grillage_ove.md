@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_39_grillage_ove.pdf
 uid: f8e14c65-5abc-6ded-e69f-79174d291800
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

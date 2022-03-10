@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_22_plate_bendin.pdf
 uid: 7365aec8-8460-b54d-40d1-60a8252a42f0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

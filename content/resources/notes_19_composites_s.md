@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_19_composites_s.pdf
 uid: 55c49fab-4c1d-7aa3-5e20-9b7d2aabbad2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

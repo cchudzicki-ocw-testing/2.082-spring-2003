@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_27_buckling.pdf
 uid: 737b352f-f63d-7f43-4bc2-6dbde30f8775
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

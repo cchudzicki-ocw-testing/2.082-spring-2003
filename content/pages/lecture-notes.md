@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 4e727d9d-dfac-bfe4-adff-4201227b10e7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

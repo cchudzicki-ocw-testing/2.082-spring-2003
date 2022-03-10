@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: design_manual_fixed.pdf
 uid: 0fe7f802-3582-065d-05c8-b299464ff535
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

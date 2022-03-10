@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_17_shr_strs_clsd.pdf
 uid: 2c020313-2bcf-33e4-4769-901b925c4fc1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_32_intro_matrix.pdf
 uid: 80375baa-7163-ef40-6d4a-64531c6c4ac5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

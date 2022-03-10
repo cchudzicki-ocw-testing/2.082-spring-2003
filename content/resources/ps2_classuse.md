@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: PS2_classuse.xls
 uid: f4d5d70d-2d4c-aa15-99ed-f1cb8a98dafc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

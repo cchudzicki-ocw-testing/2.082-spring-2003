@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_29_buckling_sti.pdf
 uid: 577e2f3d-b736-19e6-01d3-a8d7c2d6c4eb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

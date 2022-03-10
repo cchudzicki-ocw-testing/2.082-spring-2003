@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_28_plate_buckl.pdf
 uid: fa06f313-8c9f-2424-486f-ff53d5cca01f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

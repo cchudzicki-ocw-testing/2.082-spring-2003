@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_14_twist_closed.pdf
 uid: ad91f030-2bba-1ce0-4767-9b774982f599
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: PS2_classuse_dvb_soln.xls
 uid: a577558d-c49e-9c75-4443-50a2c00ce1f3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

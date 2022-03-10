@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_12_bending_wo_t.pdf
 uid: efb6e93e-7788-8f38-47ee-382b9aad250e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

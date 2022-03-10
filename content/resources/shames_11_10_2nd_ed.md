@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: shames_11_10_2nd_ed.mcd
 uid: ae7f8ffd-4f62-54b6-d216-0eadfcb89a21
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

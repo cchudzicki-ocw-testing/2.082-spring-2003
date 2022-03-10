@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: abs_long_str.pdf
 uid: 5dbd5ed7-d774-e219-1dca-896c383dcd89
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

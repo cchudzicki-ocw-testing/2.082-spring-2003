@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Maestro_tutorial.pdf
 uid: e0cb46a3-40f2-c876-2eb5-28a4f9ef4dc5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

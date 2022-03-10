@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_34_ex_pg_192_03.pdf
 uid: f64cd482-bf5c-1b17-17b8-d16470e2c50d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

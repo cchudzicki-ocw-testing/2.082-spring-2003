@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_11_balance.pdf
 uid: 66ce4c9c-2ffd-ea0c-62c6-0288e0d07872
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

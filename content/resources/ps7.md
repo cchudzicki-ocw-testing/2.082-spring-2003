@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: PS7.pdf
 uid: 94365ac8-373c-8d8a-d735-3b153ed2feaf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

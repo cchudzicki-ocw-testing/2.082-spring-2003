@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_21_yield_criter.pdf
 uid: 10e19b6e-41bc-af93-aa87-32694c0fa537
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

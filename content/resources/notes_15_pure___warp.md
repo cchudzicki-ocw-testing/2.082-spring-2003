@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_15_pure___warp.pdf
 uid: 7b387c14-ec14-20f8-58bf-d7ca7947d79a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

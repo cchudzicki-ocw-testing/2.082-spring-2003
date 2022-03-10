@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_33_matrix_grill.pdf
 uid: 076f2509-8469-dbd6-5973-04d243ac9c6b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

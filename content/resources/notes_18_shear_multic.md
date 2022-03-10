@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_18_shear_multic.pdf
 uid: d7ad0562-a5e6-6840-8233-9313403b40fa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

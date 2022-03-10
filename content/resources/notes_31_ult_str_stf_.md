@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_31_Ult_str_stf_.pdf
 uid: a0243bae-cc08-ce7b-75de-0cce387e5c04
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

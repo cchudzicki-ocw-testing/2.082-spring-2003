@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: torsion_st_v_multi_ce.pdf
 uid: 90a604ef-79fc-9b23-0ff5-d4cfa0827b19
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_16_torsion_prop.pdf
 uid: c62d2967-9c90-c4df-2b02-8773f7d4ebf9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

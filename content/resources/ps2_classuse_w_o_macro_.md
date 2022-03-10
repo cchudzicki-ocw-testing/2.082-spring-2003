@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: PS2_classuse_w_o_macro_.xls
 uid: cebf0459-140b-a6f5-78d2-3900b748d593
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

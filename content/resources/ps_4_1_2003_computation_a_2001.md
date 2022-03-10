@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ps_4_1_2003_computation_a_2001.mcd
 uid: 55d44338-f9b9-b3ae-2452-df95aabd2485
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

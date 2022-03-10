@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_21_primary_stress_loads.pdf
 uid: 9a208758-bce9-9045-22c0-14bb46f3a41e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

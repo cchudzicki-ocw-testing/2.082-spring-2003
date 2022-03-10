@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_40_grillage_exa.pdf
 uid: 2cdc7456-0870-bdf9-f08b-3627b6fb143c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

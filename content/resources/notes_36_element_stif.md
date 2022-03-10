@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_36_element_stif.pdf
 uid: 7f00c6a0-9e19-4fa5-8839-126a9ed14c53
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

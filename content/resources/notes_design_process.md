@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_design_process.pdf
 uid: 527b9ac0-77d7-9dcd-8c4e-dc2a8b1a0526
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

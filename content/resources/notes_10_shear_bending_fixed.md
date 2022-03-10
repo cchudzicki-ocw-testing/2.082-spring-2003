@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_10_shear_bending_fixed.pdf
 uid: c1470aca-adde-cc64-c333-e57dd6db740b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

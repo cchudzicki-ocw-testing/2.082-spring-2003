@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_20_design_appr.pdf
 uid: 6d268a20-8b30-113a-7be3-1eed5d8e70c8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

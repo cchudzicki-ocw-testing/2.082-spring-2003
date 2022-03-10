@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: shames_11_53.mcd
 uid: 9da88671-46ec-faa5-6ad0-188c0a68f6fe
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
