@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Design rules and manual.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

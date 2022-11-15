@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -40,8 +41,7 @@ Problem Set 2: Shear and Bending, Balancing ({{% resource_link 6cae35e5-397d-271
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link f4d5d70d-2d4c-aa15-99ed-f1cb8a98dafc "PS2\_classuse.xls" %}}  
-[PS2\_classuse\_dvb\_soln.xls  
-]({{< baseurl >}}/resources/ps2_classuse_dvb_soln){{% resource_link cebf0459-140b-a6f5-78d2-3900b748d593 "PS2\_classuse\_w\_o\_macro\_.xls" %}}
+{{% resource_link "a577558d-c49e-9c75-4443-50a2c00ce1f3" "PS2\_classuse\_dvb\_soln.xls   " %}}{{% resource_link cebf0459-140b-a6f5-78d2-3900b748d593 "PS2\_classuse\_w\_o\_macro\_.xls" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
